@@ -1,0 +1,1 @@
+csc -define:DEBUG -optimize -out:DeleteUnattainable.exe *.cs
